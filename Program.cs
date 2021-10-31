@@ -18,7 +18,7 @@ namespace Oef1
 
             AandelenBeheerData.Rss rssdata = new AandelenBeheerData.Rss();
 
-            rssdata.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Antoine\source\repos\Opdracht6\Oef1\Oef1\AandelenBeheer.mdf;Integrated Security=True;Connect Timeout=30";
+            rssdata.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\AandelenBeheer.mdf;Integrated Security=True;Connect Timeout=30";
 
             rssdata.Bewaar("Titel", "Ik", "Geen", "http://", DateTime.Now);
 

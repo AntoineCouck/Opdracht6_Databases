@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef1", "Oef1.csproj", "{7A5A6324-A97A-4639-9726-7401EAE28691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef1+2", "Oef1+2.csproj", "{7A5A6324-A97A-4639-9726-7401EAE28691}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AandelenBeheerData", "AandelenBeheerData\AandelenBeheerData.csproj", "{AE0890DF-B03C-4DFE-B3FE-A617BF63EF25}"
 EndProject
