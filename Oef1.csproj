@@ -137,7 +137,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AandelenBeheerData\AandelenBeheerData.csproj">
+    <ProjectReference Include="AandelenBeheerData\AandelenBeheerData.csproj">
       <Project>{ae0890df-b03c-4dfe-b3fe-a617bf63ef25}</Project>
       <Name>AandelenBeheerData</Name>
     </ProjectReference>
