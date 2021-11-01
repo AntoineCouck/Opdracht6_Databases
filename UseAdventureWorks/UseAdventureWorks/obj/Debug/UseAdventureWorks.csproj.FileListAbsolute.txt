@@ -1,0 +1,16 @@
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.AssemblyReference.cache
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.SuggestedBindingRedirects.cache
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.Properties.Resources.resources
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.GenerateResource.cache
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe.config
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\UseAdventureWorks.pdb
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.CurrencyCountry.resources
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.exe
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.pdb
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\antoi\source\repos\Opdracht6 Couck Antoine\Oef3\UseAdventureWorks\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.CopyComplete
